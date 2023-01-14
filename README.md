@@ -11,12 +11,15 @@ The	simulated	robots	are	defined	as	follow:
 - An	ultrasonic	sensor	is	embedded,	with	a	limited	range	(5	meters)
 - 2	motorized	wheels	allow	the	robot	to	operate	in	the	environment
 - Its	current	pose	in	the	environment	is	known	(Position	and	orientation)
+
+
 	
 ## Technologies
 Project is created with:
 * ROS	 – Robot	 Operating	 System https://app.theconstructsim.com/
 	
 ## Setup
+
 To run this project, use the link provided to the rosject :
 
 To	run	the	simulation,	open	a	new	terminal	and	run	the	following	instruction:
