@@ -20,11 +20,11 @@ Project is created with:
 	
 ## Setup
 To run the project use the provided link : https://app.theconstructsim.com/l/545bf3dc/
-To	run	the Gazebo simulation in this project ,	open	a	new	terminal	and	run	the	following	instruction:
+To	run	the Gazebo simulation ,	open	a	new	terminal	and	run	the	following	instruction:
 ```
 $ roslaunch evry_project_description simu_robot.launch
 ```
-In	a	second	terminal,	run	the	python	script	containing	your desired	strategy (agent_timing.py or agent_poly.py)	by	executing:
+In	a	second	terminal,	run	the	python	script	containing	your desired	strategy (agent_timing.py or agent_poly.py)	by	executing respectively :
 either :
 ```
 $ roslaunch evry_project_strategy agent_timing.launch 
