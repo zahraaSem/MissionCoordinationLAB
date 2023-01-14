@@ -20,9 +20,7 @@ Project is created with:
 	
 ## Setup
 
-To run this project, use the link provided to the rosject :
-
-To	run	the	simulation,	open	a	new	terminal	and	run	the	following	instruction:
+To	run	the	simulation in this project ,	open	a	new	terminal	and	run	the	following	instruction:
 ```
 $ roslaunch evry_project_description simu_robot.launch
 ```
